@@ -17,7 +17,8 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 ## Screenshots
 
 ### Home Screen
-<img width="509" alt="Screenshot 2025-01-17 at 11 29 43 AM" src="https://github.com/user-attachments/assets/3769f3ce-72fd-4141-8674-ea94a90b0756" />
+<img width="509" alt="Screenshot 2025-01-17 at 12 02 19 PM" src="https://github.com/user-attachments/assets/ee5e0c00-9b0e-45be-bfa3-77097e6b8e2c" />
+
 
 ### Details Screen
 <img width="509" alt="Screenshot 2025-01-17 at 11 30 35 AM" src="https://github.com/user-attachments/assets/f67f4694-dad6-4373-913f-88bacf621667" />
@@ -30,5 +31,8 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 ## Demo Video is here 👇🏻
 
-https://github.com/user-attachments/assets/0c3a00b6-2b6c-42d4-8ca9-81ef9719bab4
+https://github.com/user-attachments/assets/c43dba68-1a0b-4b7d-ae4d-1c4c5feb8245
+
+
+
 
