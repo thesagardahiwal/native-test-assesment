@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "quadb-tech-assesment",
+    "name": "Netflix Clone",
     "slug": "quadb-tech-assesment",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -10,6 +10,9 @@
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true
+    },
+    "splash": {
+      "image": "./assets/images/splash-icon.png"
     },
     "android": {
       "adaptiveIcon": {
